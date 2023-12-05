@@ -1,0 +1,55 @@
+ID:123
+Name:Rediet Muluken
+Age:20
+Year:3rd
+Date:10/02/2023
+Duscription: Omeparazol..
+-----------------------------------------------------
+ID:124
+Name:Fenan Yosef
+Age:20
+Year:3rd
+Date:10/02/2023
+Description: Omeparazol..
+----------------------------------------------------
+ID:125
+Name:tsehay
+Age:20
+Year:3rd
+Date:10/10/2013
+Description:cheguara
+-----------------------------------------------------
+ID:3430
+Name:tttttt
+Age:40
+Year:6th
+Date:67/89/2023
+Description:dhdgddg
+-----------------------------------------------------
+ID:333
+Name:Tekalije
+Age:22
+Year:3rd
+Date:30/10/2023
+Description:headace
+-----------------------------------------------------
+ID:555
+Name:Fayza
+Age:20
+Year:3rd
+Date:10/10/2023
+Description:cheguara
+-----------------------------------------------------
+ID:0909
+Name:Betel
+Age:20
+Year:4th
+Date:10/17/2023
+Description:Cheguara
+-----------------------------------------------------
+ID:000
+Name:Melkamu
+Age:35
+Year:Teacher
+Date:10/10/2023
+Description:Healthy
